@@ -98,7 +98,7 @@ but also **the systems behind how decisions are made**.
 
 ## 📫 Contact
 
-* GitHub: https://github.com/your-id
+* GitHub: https://github.com/leeyj2306-cloud
 * Email: [leeyj2306@naver.com](mailto:leeyj2306@naver.com)
 
 ---
