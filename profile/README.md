@@ -33,7 +33,7 @@ I approach design not only aesthetically, but also through performance, behavior
 
 ## 🏗 Selected Work
 
-### 🔹 AI Multi-Agent Content System
+### 🔹 AI Multi-Agent Content System  [Github Link](https://github.com/NEWSENSE-AI-Hackerton)
 
 Designed a LangGraph-based system that:
 
