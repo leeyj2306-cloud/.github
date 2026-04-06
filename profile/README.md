@@ -33,7 +33,7 @@ I approach design not only aesthetically, but also through performance, behavior
 
 ## 🏗 Selected Work
 
-### 🔹 My Life News  ([My_Life_News Github Link](https://github.com/NEWSENSE-AI-Hackerton))
+### 🔹 My Life News  [(My_Life_News Github Link)](https://github.com/NEWSENSE-AI-Hackerton)
 
 Designed a LangGraph-based system that:
 
