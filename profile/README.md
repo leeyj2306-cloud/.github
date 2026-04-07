@@ -47,14 +47,15 @@ Led the project as a **Project Manager**, designing an AI-driven service that tr
 
 ---
 
-### 🔹 Personalized News Intelligence Service
+### 🔹 AI Recycling VQA System (GitHub Link)
+Developed an image-based Visual Question Answering system that:
 
-Built a system that:
+* Understands recycling items from images and answers user queries
+* Integrates multimodal inputs (image + text) using transformer-based models
+* Applies data preprocessing and augmentation for performance optimization
+* Improves accuracy through iterative fine-tuning and validation strategies
 
-* Filters and prioritizes news based on user context
-* Improves information accessibility for younger audiences
-
-→ Focused on **user behavior + information architecture**
+→ Demonstrates end-to-end AI problem solving, from data handling to model optimization and deployment readiness.
 
 ---
 
