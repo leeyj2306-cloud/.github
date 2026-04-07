@@ -47,16 +47,17 @@ Led the project as a **Project Manager**, designing an AI-driven service that tr
 
 ---
 
-### 🔹 DevAI [(GitHub repo Link)](https://github.com/leeyj2306-cloud/DevAI)
-Developed an image-based Visual Question Answering system that:
+### 🔹 DevAI – AI-Powered Real Estate Development Decision Tool [(GitHub repo Link)](https://github.com/leeyj2306-cloud/DevAI)
+Led the project as a **Lead Planner**, designing an AI system that supports early-stage real estate development decisions.
 
-* Understands recycling items from images and answers user queries
-* Integrates multimodal inputs (image + text) using transformer-based models
-* Applies data preprocessing and augmentation for performance optimization
-* Improves accuracy through iterative fine-tuning and validation strategies
+* Designed a **decision-making framework** integrating site conditions, budget, and development goals
+* Structured an **end-to-end strategy generation pipeline** (development type, target users, spatial program, revenue model)
+* Built a **hybrid system combining rule-based analysis and LLM reasoning**
+* Planned a **structured report-style output UX**, moving beyond simple chatbot responses
+* Defined the concept of a **pre-development decision tool** focused on feasibility and profitability
 
-→ Demonstrates end-to-end AI problem solving, from data handling to model optimization and deployment readiness.
-
+→ Demonstrates a shift from form-making to **strategy-driven architectural thinking**
+→ Highlights the ability to design **AI-powered decision systems in the real estate domain**
 ---
 
 ### 🔹 Healthcare Architecture Experience
