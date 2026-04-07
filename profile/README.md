@@ -36,11 +36,11 @@ I approach design not only aesthetically, but also through performance, behavior
 ### 🔹 My Life News (Maeil Business Media × Anthropic Hackathon) [(Github Link)](https://github.com/NEWSENSE-AI-Hackerton)
 Led the project as a **Lead Planner**, designing an AI-driven service that transforms news consumption into actionable decisions.
 
-Designed a **3-stage decision pipeline (News → Personal Impact → Action)** for end-to-end user value
-Planned a **personal life dashboard UX** integrating finance, housing, policy benefits, and risk signals
-Defined a **multi-agent architecture (analysis–simulation–recommendation)** using Claude & LangGraph
-Structured **personalized simulation logic** to quantify real financial impact (monthly/yearly)
-Directed **end-to-end user journey and demo scenarios**, from onboarding to actionable insights
+* Designed a **3-stage decision pipeline (News → Personal Impact → Action)** for end-to-end user value
+* Planned a **personal life dashboard UX** integrating finance, housing, policy benefits, and risk signals
+* Defined a **multi-agent architecture (analysis–simulation–recommendation)** using Claude & LangGraph
+* Structured **personalized simulation logic** to quantify real financial impact (monthly/yearly)
+* Directed **end-to-end user journey and demo scenarios**, from onboarding to actionable insights
 
 → Demonstrates the ability to move beyond summarization and position AI as a **decision-making engine**
 → Highlights **strategic product thinking**, connecting user problems to system architecture and data design
