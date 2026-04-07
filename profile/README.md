@@ -47,7 +47,7 @@ Led the project as a **Project Manager**, designing an AI-driven service that tr
 
 ---
 
-### 🔹 AI Recycling VQA System (GitHub repo Link)
+### 🔹 DevAI [(GitHub repo Link)](https://github.com/leeyj2306-cloud/DevAI)
 Developed an image-based Visual Question Answering system that:
 
 * Understands recycling items from images and answers user queries
