@@ -38,7 +38,7 @@ Led the project as a **Project Manager**, designing an AI-driven service that tr
 
 * Designed a **3-stage decision pipeline (News → Personal Impact → Action)** for end-to-end user value
 * Planned a **personal life dashboard UX** integrating finance, housing, policy benefits, and risk signals
-* Defined a **multi-agent architecture (analysis–simulation–recommendation)** using Claude & LangGraph
+* Defined a **multi-agent architecture (analysis–simulation–recommendation)** using Claude
 * Structured **personalized simulation logic** to quantify real financial impact (monthly/yearly)
 * Directed **end-to-end user journey and demo scenarios**, from onboarding to actionable insights
 
