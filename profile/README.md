@@ -33,7 +33,7 @@ I approach design not only aesthetically, but also through performance, behavior
 
 ## 🏗 Selected Work
 
-### 🔹 My Life News (Maeil Business Media × Anthropic Hackathon) [(Github Link)](https://github.com/NEWSENSE-AI-Hackerton)
+### 🔹 My Life News (Maeil Business Media × Anthropic Hackathon) [(<U>Github Link</U>)](https://github.com/NEWSENSE-AI-Hackerton)
 Led the project as a **Lead Planner**, designing an AI-driven service that transforms news consumption into actionable decisions.
 
 * Designed a **3-stage decision pipeline (News → Personal Impact → Action)** for end-to-end user value
