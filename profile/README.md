@@ -58,6 +58,7 @@ Led the project as a **Lead Planner**, designing an AI system that supports earl
 
 → Demonstrates a shift from form-making to **strategy-driven architectural thinking**
 → Highlights the ability to design **AI-powered decision systems in the real estate domain**
+
 ---
 
 ### 🔹 Healthcare Architecture Experience
