@@ -47,7 +47,7 @@ Led the project as a **Project Manager**, designing an AI-driven service that tr
 
 ---
 
-### 🔹 DevAI – AI-Powered Real Estate Development Decision Tool [(GitHub repo Link)](https://github.com/leeyj2306-cloud/DevAI)
+### 🔹 DevAI (AI-Powered Real Estate Development Decision Tool) [(GitHub repo Link)](https://github.com/leeyj2306-cloud/DevAI)
 Led the project as a **Lead Planner**, designing an AI system that supports early-stage real estate development decisions.
 
 * Designed a **decision-making framework** integrating site conditions, budget, and development goals
