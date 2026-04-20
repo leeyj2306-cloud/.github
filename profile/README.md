@@ -1,109 +1,91 @@
-# Hi, I'm Yeonju Lee
+## Hi, I'm Yeonju Lee
 
-**Architectural Systems Designer**
-Designing spaces, systems, and intelligent workflows.
+### 👋 About Me
 
----
-
-## 🧭 Who I Am
-
-I started as an architect designing healthcare environments.
-Now, I design **systems that generate, optimize, and scale design decisions**.
-
-My work sits at the intersection of:
-
-* Architecture
-* AI & Automation
-* Data-driven decision making
+건축 설계를 기반으로
+복잡한 조건 속에서 최적의 의사결정을 도출하는 과정을 경험해왔습니다. <br />
+현재는 이를 확장하여 **데이터와 AI를 활용한 의사결정 기반 서비스**를 설계하고 개발하고 있습니다.
 
 ---
 
-## 🧠 What I Bring
+### 🔔 Notice
 
-**1. Systems Thinking in Design**
-I break down complex design problems into structured workflows and scalable systems.
-
-**2. AI-Driven Workflow Design**
-I build multi-agent pipelines using LLMs (LangGraph) to automate content and decision processes.
-
-**3. Data-Oriented Perspective**
-I approach design not only aesthetically, but also through performance, behavior, and data.
+* 🔭 현재 개발 중: **AI 기반 부동산 개발 의사결정 서비스 (DevAI)**
+* 🌱 학습 중: **데이터 분석 / AI 시스템 설계**
+* 📚 탐색 중: **금융 데이터 분석 & 예측 시스템**
+* 👯 협업 관심: **데이터 기반 서비스 / PropTech / AI 프로젝트**
+* 💬 관심 분야:
+  데이터 분석, AI 서비스 기획, 부동산/금융 의사결정 시스템
 
 ---
 
-## 🏗 Selected Work
+### ⭐ Ongoing Projects
 
-### 🔹 My Life News (Maeil Business Media × Anthropic Hackathon) [(Github org Link)](https://github.com/NEWSENSE-AI-Hackerton)
-Led the project as a **Project Manager**, designing an AI-driven service that transforms news consumption into actionable decisions.
-
-* Designed a **3-stage decision pipeline (News → Personal Impact → Action)** for end-to-end user value
-* Planned a **personal life dashboard UX** integrating finance, housing, policy benefits, and risk signals
-* Defined a **multi-agent architecture (analysis–simulation–recommendation)** using Claude
-* Structured **personalized simulation logic** to quantify real financial impact (monthly/yearly)
-* Directed **end-to-end user journey and demo scenarios**, from onboarding to actionable insights
-
-→ Demonstrates the ability to move beyond summarization and position AI as a **decision-making engine**
-→ Highlights **strategic product thinking**, connecting user problems to system architecture and data design
+* **[Algorithms 스터디: 백준 및 SWEA 풀이](https://github.com/SSAFY-15)** - 스터디장(SSAFY 15기 우수 스터디 선정)
+* **DevAI: AI 기반 부동산 개발 의사결정 지원 시스템** - Owner, Project Manager
 
 ---
 
-### 🔹 DevAI (AI-Powered Real Estate Development Decision Tool) [(GitHub repo Link)](https://github.com/leeyj2306-cloud/DevAI)
-Led the project as a **Lead Planner**, designing an AI system that supports early-stage real estate development decisions.
+### ⭐ Starred Projects
 
-* Designed a **decision-making framework** integrating site conditions, budget, and development goals
-* Structured an **end-to-end strategy generation pipeline** (development type, target users, spatial program, revenue model)
-* Built a **hybrid system combining rule-based analysis and LLM reasoning**
-* Planned a **structured report-style output UX**, moving beyond simple chatbot responses
-* Defined the concept of a **pre-development decision tool** focused on feasibility and profitability
-
-→ Demonstrates a shift from form-making to **strategy-driven architectural thinking**
-→ Highlights the ability to design **AI-powered decision systems in the real estate domain**
+* **[My Life News: 뉴스 기반 인생 대시보드](https://github.com/NEWSENSE-AI-Hackerton)** - Project Manager
+* **[북항 크레인을 활용한 창의커뮤니티시설](https://aiksubmit.cric.or.kr/member/workList?yy=2021)** - Project Manager
 
 ---
 
-### 🔹 Healthcare Architecture Experience
+### 🎓 학력 및 수료
 
-Worked on real-world hospital projects including:
-
-* Coordination with regulations and stakeholders
-* Spatial planning for complex systems (circulation, zoning)
-
-→ Built strong foundations in **real-world constraints and execution**
+* **건축학과 (5년제) 졸업** (2017.03-2022.02)
+* **건축사사무소 3년 경력** (2021.12-2025.03)
+* **SSAFY 15기 부트캠프** (2026.01-)
 
 ---
 
-## 🛠 Tools & Technologies
+### 📜 자격증 및 면허
 
-**Design**
-
-* Revit, AutoCAD, Rhino
-
-**Programming**
-
-* Python, Java
-
-**AI / Data**
-
-* PyTorch, Transformers
-* LangChain, LangGraph
-* Pandas, NumPy
+* **자동차운전면허 2종 보통** (2018.08)
 
 ---
 
-## 🌍 Direction
+### 🥇수상경력
 
-I am building a career that integrates:
-
-> **Architecture + AI + Data + Strategy**
-
-My goal is to become a professional who can design not only buildings,
-but also **the systems behind how decisions are made**.
+* **매경미디어 x Claude 주최 'News to Action' AI 해커톤 본선 진출** - 'My Life News' AI 기반 개인 인생 대시보드 (2026.04) 
+* **대한건축학회 학생작품전 대상** - 북항 크레인을 이용한 창의커뮤니티시설 (2021.10)
 
 ---
 
-## 📫 Contact
+### 🧰 Tech & Tools
 
-* GitHub: https://github.com/leeyj2306-cloud
-* Email: [leeyj2306@naver.com](mailto:leeyj2306@naver.com)
+📊 **Data & AI**
+
+* Python
+* Pandas / Numpy
+* 데이터 분석 및 모델링
+
+🖥️ **Backend / System**
+
+* FastAPI (학습 및 프로젝트 적용)
+* 데이터 기반 서비스 설계
+
+📐 **Domain Knowledge**
+
+* Architecture & Real Estate Development
+* 공간 설계 + 수익성 분석
+
+⚙️ **Problem Solving**
+
+* Graph / Simulation / Optimization
+
+---
+
+### 📫 Contact
+
+* Email: leeyj2306@naver.com
+
+---
+
+“**좋은 설계는 좋은 의사결정에서 시작된다.**” <br />
+건축에서 시작한 의사결정 경험을 데이터와 AI로 확장하여 <br />
+복잡한 문제를 해결하는 서비스를 만들고 있습니다.
 
 ---
