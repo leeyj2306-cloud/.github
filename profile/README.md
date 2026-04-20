@@ -29,7 +29,7 @@
 ### ⭐ Starred Projects
 
 * **[My Life News: 뉴스 기반 인생 대시보드](https://github.com/NEWSENSE-AI-Hackerton)** - Project Manager
-* **[북항 크레인을 활용한 창의커뮤니티시설](https://aiksubmit.cric.or.kr/member/workList?yy=2021)** - Project Manager
+* **[북항 크레인을 활용한 창의커뮤니티시설](https://aiksubmit.cric.or.kr/member/workList?yy=2021)** - Architecture Project Manager
 
 ---
 
