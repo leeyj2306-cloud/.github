@@ -21,7 +21,7 @@
 
 ### ⭐ Ongoing Projects
 
-* **[Algorithms 스터디: 백준 및 SWEA 풀이](https://github.com/SSAFY-15)** - 스터디장(SSAFY 15기 우수 스터디 선정)
+* **[Algorithms 스터디: 백준 및 SWEA 풀이](https://github.com/SSAFY-15)** - 스터디장 (🏆SSAFY 15기 우수 스터디 선정🏆)
 * **DevAI: AI 기반 부동산 개발 의사결정 지원 시스템** - Owner, Project Manager
 
 ---
