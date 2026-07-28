@@ -56,27 +56,36 @@
 
 ---
 
-### 🧰 Tech & Tools
+🧰 **Tech & Tools**
+
+☕ **Backend**
+
+* Java / Spring Boot
+* JPA (Hibernate) / Spring Data JPA
+* RESTful API 설계 및 데이터 기반 백엔드 아키텍처 구현
+
+☁️ **Infra & DevOps**
+
+* Linux / Docker
+* CI/CD 파이프라인 구축 및 서버 가상화
+* 모니터링 및 저지연 시스템 인프라 최적화
+
+🎨 **Frontend**
+
+* HTML5 / CSS3 / JavaScript (ES6+)
+* SPA 프레임워크 기초 및 사용자 친화적 UI/UX 구현
+* REST API 연동 및 상태 관리
 
 📊 **Data & AI**
 
-* Python
-* Pandas / Numpy
-* 데이터 분석 및 모델링
+* Python / Pandas / NumPy
+* 데이터 전처리, 통계적 데이터 분석 및 AI 모델링
+* MLOps 및 파이프라인 연동
 
-🖥️ **Backend / System**
+📐 **Domain Knowledge & Problem Solving**
 
-* FastAPI (학습 및 프로젝트 적용)
-* 데이터 기반 서비스 설계
-
-📐 **Domain Knowledge**
-
-* Architecture & Real Estate Development
-* 공간 설계 + 수익성 분석
-
-⚙️ **Problem Solving**
-
-* Graph / Simulation / Optimization
+* **Architecture & PropTech:** 공간/부동산 데이터 분석 및 수익성/사업성 검증
+* **Algorithmic Problem Solving:** Graph, Simulation, Optimization 기반 시스템 효율화
 
 ---
 
