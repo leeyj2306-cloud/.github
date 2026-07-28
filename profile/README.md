@@ -11,11 +11,11 @@
 ### 🔔 Notice   
 
 * 🔭 현재 개발 중: **실시간 비공개 경매 플랫폼 (BidLive)**  
-* 🌱 학습 중: **데이터 분석 / AI 시스템 설계**
-* 📚 탐색 중: **금융 데이터 분석 & 예측 시스템**
-* 👯 협업 관심: **데이터 기반 서비스 / PropTech / AI 프로젝트**
+* 🌱 학습 중: **클라우드 인프라 / DevOps / AI 파이프라인 (MLOps) / 통합/배포(CI/CD) 자동화**
+* 📚 탐색 중: **대용량 데이터 트래픽 처리 & 실시간 스트리밍 인프라**
+* 👯 협업 관심: **Cloud Native 인프라 구축 / MLOps / IaC 기반 시스템 자동화**
 * 💬 관심 분야:
-  데이터 분석, AI 서비스 기획, 부동산/금융 의사결정 시스템
+  Cloud Architecture, DevOps, MLOps, System Optimization, PropTech System Infra
 
 ---
 
