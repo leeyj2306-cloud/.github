@@ -23,7 +23,7 @@
 
 * **[Algorithms 스터디: 백준 및 SWEA 풀이](https://github.com/SSAFY-15)** - 스터디장 (🏆SSAFY 15기 우수 스터디 선정🏆)
 * **[BidLive: 실시간 비공개 경매 플랫폼](https://github.com/SSAFY-15-7)** - Project Manager, Infra
-* **DevAI: AI 기반 부동산 개발 의사결정 지원 시스템** - Owner, Project Manager
+* **SPACECHECK: AI 기반 건축 인허가 사전 진단 서비스** - Owner, Project Manager
 
 ---
 
