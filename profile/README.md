@@ -1,4 +1,4 @@
-## Hi, I'm Yeonju Lee          
+## Hi, I'm Yeonju Lee           
      
 ### 👋 About Me              
          
