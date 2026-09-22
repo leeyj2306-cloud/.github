@@ -30,7 +30,7 @@
 
 * **[My Life News: 뉴스 기반 인생 대시보드](https://github.com/NEWSENSE-AI-Hackerton)** - Project Manager
 * **[BidLive: 실시간 비공개 경매 플랫폼](https://github.com/SSAFY-15-7)** - Project Manager, Infra
-* **SPACECHECK: AI 기반 건축 인허가 사전 진단 서비스** - Project Manager, Full Stack
+* **[SPACECHECK: AI 기반 건축 인허가 사전 진단 서비스](https://github.com/SSAFYxKakao-AI-Hackerton)** - Project Manager, Full Stack
 * **[슬픽(SeulPick) : 동네 소비패턴 맞춤 카드혜택 추천 서비스](https://github.com/SSAFY-15-PJT)** - Project Manager, Frontend
 * **[북항 크레인을 활용한 창의커뮤니티시설](https://aiksubmit.cric.or.kr/member/workList?yy=2021)** - Architecture Project Manager
 
